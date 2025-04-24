@@ -129,13 +129,13 @@ export default function VisiMisi() {
       -translate-x-1/2 -translate-y-1/2 
       z-10 text-white text-center 
       px-7 w-[90%]
-      lg:static lg:text-left lg:px-0 lg:mt-32 lg:translate-x-10 lg:translate-y-5
+      lg:static lg:text-left lg:px-0 lg:mt-32 xl:translate-x-20 lg:translate-x-10 lg:translate-y-5
     "
           >
             <h3 className="text-xl xl:text-3xl font-bold mb-2 lg:-translate-x-[15%]">
               Vision
             </h3>
-            <p className="xl:text-lg lg:text-sm lg:w-[40%] w-full text-xs lg:mx-0 lg:-translate-x-[40%]">
+            <p className="xl:text-lg lg:text-sm lg:w-[40%] w-full text-xs lg:mx-0 xl:-translate-x-[50%] lg:-translate-x-[40%]">
               To be a global leader in technology and web3 innovation, creating
               groundbreaking solutions that redefine the future. No limits, just{" "}
               <span className="font-bold">endless possibilities</span>.
