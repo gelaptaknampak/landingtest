@@ -117,7 +117,7 @@ export default function VisiMisi() {
           <img
             src={vision}
             alt="Vision"
-            className="hidden lg:block absolute w-[200%] lg:w-[150%] z-0 translate-x-[5%] translate-y-[5%] lg:-translate-x-[35%] lg:mt-40"
+            className="hidden lg:block absolute w-[200%] lg:w-[150%] z-0 translate-x-[5%] translate-y-[5%] lg:-translate-x-[35%] xl:-translate-x-[30%] lg:mt-40"
           />
 
           {/* Teks di dalam gambar untuk < lg, normal position untuk lg+ */}
@@ -132,10 +132,10 @@ export default function VisiMisi() {
       lg:static lg:text-left lg:px-0 lg:mt-32 xl:translate-x-20 lg:translate-x-10 lg:translate-y-5
     "
           >
-            <h3 className="text-xl xl:text-3xl font-bold mb-2 lg:-translate-x-[15%]">
+            <h3 className="text-xl xl:text-3xl font-bold mb-2 lg:-translate-x-[10%]">
               Vision
             </h3>
-            <p className="xl:text-lg lg:text-sm lg:w-[40%] w-full text-xs lg:mx-0 xl:-translate-x-[50%] lg:-translate-x-[40%]">
+            <p className="xl:text-lg lg:text-sm lg:w-[40%] w-full text-xs lg:mx-0 xl:-translate-x-[40%] lg:-translate-x-[40%]">
               To be a global leader in technology and web3 innovation, creating
               groundbreaking solutions that redefine the future. No limits, just{" "}
               <span className="font-bold">endless possibilities</span>.
